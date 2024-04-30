@@ -65,7 +65,7 @@ on how you can run your own `geth` instance.
 
 Minimum:
 
-* CPU with 2+ cores
+* CPU with 4+ cores
 * 4GB RAM
 * 1TB free storage space to sync the Mainnet
 * 8 MBit/sec download Internet service
